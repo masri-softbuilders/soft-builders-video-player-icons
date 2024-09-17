@@ -1,0 +1,13 @@
+export { default as BackwardIcon } from "./components/BackwardIcon";
+export { default as CheckedIcon } from "./components/CheckedIcon";
+export { default as ClosedNoteIcon } from "./components/ClosedNoteIcon";
+export { default as ForwardIcon } from "./components/ForwardIcon";
+export { default as FullScreenIcon } from "./components/FullScreenIcon";
+export { default as LeftArrowIcon } from "./components/LeftArrowIcon";
+export { default as MuteIcon } from "./components/MuteIcon";
+export { default as NoteIcon } from "./components/NoteIcon";
+export { default as OpenNoteIcon } from "./components/OpenNoteIcon";
+export { default as PauseIcon } from "./components/PauseIcon";
+export { default as PlayIcon } from "./components/PlayIcon";
+export { default as SettingsIcon } from "./components/SettingsIcon";
+export { default as UnmuteIcon } from "./components/UnmuteIcon";

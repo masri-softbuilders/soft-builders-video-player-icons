@@ -1,0 +1,27 @@
+{
+  "name": "soft-builders-video-player-icons",
+  "version": "1.0.4",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build:icons": "svgr src/icons --out-dir src/components",
+    "build": "tsup src/index.ts --dts --format esm,cjs --out-dir dist && copyfiles -u 1 src/components/**/* dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/react": "^18.3.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.6.2"
+  },
+  "devDependencies": {
+    "@svgr/cli": "^8.1.0",
+    "@swc/core": "^1.7.26",
+    "copyfiles": "^2.4.1",
+    "tsup": "^8.2.4"
+  }
+}
