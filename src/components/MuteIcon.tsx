@@ -8,10 +8,7 @@ const SvgMuteIcon = (props: SVGProps<SVGSVGElement>) => (
     viewBox="0 0 17 13"
     {...props}
   >
-    <path
-      fill="#E5E7EB"
-      d="M7.925 1.5 4.59 4.357H1.925v4.286H4.59L7.925 11.5z"
-    />
+    <path fill="#FFF" d="M7.925 1.5 4.59 4.357H1.925v4.286H4.59L7.925 11.5z" />
     <path
       stroke="#E5E7EB"
       strokeLinecap="round"

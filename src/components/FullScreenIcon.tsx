@@ -9,7 +9,7 @@ const SvgFullScreenIcon = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <path
-      stroke="#E5E7EB"
+      stroke="#FFF"
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth={2}

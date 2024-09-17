@@ -9,7 +9,7 @@ const SvgCheckedIcon = (props: SVGProps<SVGSVGElement>) => (
     {...props}
   >
     <path
-      stroke="#F9FAFB"
+      stroke="#FFF"
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth={1.5}
