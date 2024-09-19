@@ -11,3 +11,4 @@ export { default as PauseIcon } from "./components/PauseIcon";
 export { default as PlayIcon } from "./components/PlayIcon";
 export { default as SettingsIcon } from "./components/SettingsIcon";
 export { default as UnmuteIcon } from "./components/UnmuteIcon";
+export { default as SubtitlesIcon } from "./components/SubtitlesIcon";

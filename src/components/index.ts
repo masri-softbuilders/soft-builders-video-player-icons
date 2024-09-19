@@ -10,4 +10,5 @@ export { default as OpenNoteIcon } from "./OpenNoteIcon";
 export { default as PauseIcon } from "./PauseIcon";
 export { default as PlayIcon } from "./PlayIcon";
 export { default as SettingsIcon } from "./SettingsIcon";
+export { default as SubtitlesIcon } from "./SubtitlesIcon";
 export { default as UnmuteIcon } from "./UnmuteIcon";
